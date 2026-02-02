@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Savio 👋
 
-<!--
-**saviolobo/saviolobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Assistant Manager – AI Engineer** at Godrej AI Lab, Godrej Industries Limited
 
-Here are some ideas to get you started:
+## About Me
+I'm passionate about building production-ready, scalable Agentic AI systems using RAG, AI Agents, and LLMs. I work at the intersection of engineering, research, and real-world deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- ⚡ Currently at **Godrej AI Lab**
+- 🚗 Previously at **Mercedes-Benz Research and Development India**
+- 💼 2+ years of professional experience
+
+### Education
+- 🎓 M.Tech. in Information Technology from **NIT Karnataka, Surathkal**
+
+### Tech Stack & Skills
+- **AI/ML**: RAG, AI Agents, LLMs
+- **AI Platforms**: Azure OpenAI, Anthropic Claude, Azure AI Search
+- **AI Frameworks**: LangChain, LangGraph, Microsoft AutoGen, LangSmith
+- **Infrastructure**: Azure, Docker, Redis
+- **Languages**: Python
+- **Focus**: Production-grade AI systems, scalable architectures
+
+## 🚀 Featured Project
+
+### Semantic LLM Cache
+Intelligent caching system for LLM responses using semantic similarity
+
+![Semantic LLM Cache Demo](https://github.com/saviolobo/semantic-llm-cache/raw/main/assets/demo.gif)
+
+[View Project →](https://github.com/saviolobo/semantic-llm-cache)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lobo/)
+
+---
+💡 *Building the future with AI, one agent at a time*
