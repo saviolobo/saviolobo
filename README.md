@@ -8,7 +8,7 @@ I'm passionate about building production-ready, scalable Agentic AI systems usin
 ### Experience
 - ⚡ Currently at **Godrej AI Lab**
 - 🚗 Previously at **Mercedes-Benz Research and Development India**
-- 💼 2+ years of professional experience
+- 💼 2.5+ years of professional experience
 
 ### Education
 - 🎓 M.Tech. in Information Technology from **NIT Karnataka, Surathkal**
