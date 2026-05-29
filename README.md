@@ -4,7 +4,7 @@
 ### Tech Stack & Skills
 AI Agents | RAG | LLMs | LangGraph | LangChain | Langfuse | Claude Code | Azure OpenAI | Python
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### Semantic LLM Cache
 Intelligent caching system for LLM responses using semantic similarity
