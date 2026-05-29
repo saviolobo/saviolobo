@@ -1,25 +1,8 @@
-# Hi, I'm Savio 👋
-
-**Assistant Manager – AI Engineer** at Godrej AI Lab, Godrej Industries Limited
-
 ## About Me
-I'm passionate about building production-ready, scalable Agentic AI systems using RAG, AI Agents, and LLMs. I work at the intersection of engineering, research, and real-world deployment.
-
-### Experience
-- ⚡ Currently at **Godrej AI Lab**
-- 🚗 Previously at **Mercedes-Benz Research and Development India**
-- 💼 2.5+ years of professional experience
-
-### Education
-- 🎓 M.Tech. in Information Technology from **NIT Karnataka, Surathkal**
+👋 Hello! I'm Savio, an AI Engineer shipping production multi-agent and RAG systems at Godrej AI Lab, previously at Mercedes-Benz R&D, MTech in IT from NITK, with hands-on expertise in enterprise-scale agentic AI systems and strong observability. Happy to Connect 🤝
 
 ### Tech Stack & Skills
-- **AI/ML**: RAG, AI Agents, LLMs
-- **AI Platforms**: Azure OpenAI, Anthropic Claude, Azure AI Search
-- **AI Frameworks**: LangChain, LangGraph, Microsoft AutoGen, LangSmith
-- **Infrastructure**: Azure, Docker, Redis
-- **Languages**: Python
-- **Focus**: Production-grade AI systems, scalable architectures
+AI Agents | RAG | LLMs | LangGraph | LangChain | Langfuse | Claude Code | Azure OpenAI | Python
 
 ## 🚀 Featured Project
 
